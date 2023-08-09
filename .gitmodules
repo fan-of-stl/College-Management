@@ -4,3 +4,6 @@
 [submodule "College-Management-Backend"]
 	path = College-Management-Backend
 	url = https://github.com/fan-of-stl/College-Management-Backend.git
+[submodule "College-Management-Frontend"]
+	path = College-Management-Frontend
+	url = https://github.com/fan-of-stl/College-Management-Frontend.git
