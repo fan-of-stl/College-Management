@@ -1,0 +1,3 @@
+[submodule "College-Management-Auth"]
+	path = College-Management-Auth
+	url = https://github.com/fan-of-stl/College-Management-Auth.git
